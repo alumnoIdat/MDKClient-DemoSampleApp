@@ -1,0 +1,10 @@
+{
+  "AppDisplayName": "SAP MDK Demo App",
+  "AppName": "DemoSampleApp",
+  "AppVersion": "1.0.0",
+  "BundleID": "com.sap.mdk.demo",
+  "Externals": [],
+  "NSPlugins": [],
+  "NPMPlugins": [],
+  "UrlScheme": "mdkclient"
+}
